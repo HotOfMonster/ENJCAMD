@@ -1,2 +1,2 @@
 # ENJCAMD
-EN-JCAMD
+Endnote Library for JCAMD (1987-2014)
